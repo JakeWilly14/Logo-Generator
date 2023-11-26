@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "svg": "^0.1.0"
   },
   "name": "logo-generator",
   "description": "A node.js command line application that takes user input and creates a .svg logo based of user's input.",
