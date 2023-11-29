@@ -18,7 +18,9 @@
   To install project, you will need to clone the project repository to your machine. Use "npm i" to install dependecy packages. Use "npm i --save-dev jest" to install jest devDependcies. 
   
   ## Usage
-  Open your integrated terminal for the index.js file. Run "node index.js" in the terminal. You will be prompted with a series of questions to generate your logo. First you will be prompted to enter your text choice for your logo. Then it will prompt for font color. Then you will be able to choose between three shapes: Circle, Square, or Triangle. Finally you will be prompted to enter in shape color. After all prompts have been answered, your logo will be generated into examples file.
+  Open your integrated terminal for the index.js file. Run "node index.js" in the terminal. You will be prompted with a series of questions to generate your logo. First you will be prompted to enter your text choice for your logo. Then it will   prompt for font color. Then you will be able to choose between three shapes: Circle, Square, or Triangle. Finally you will be prompted to enter in shape color. After all prompts have been answered, your logo will be generated into examples     file.
+
+  Video Walkthrough: https://drive.google.com/file/d/1W9VNob1KE8r04YVlUvDpZGHDbIMp7cTO/view
   
   ## Contributors
   No need for further contributions. This is a student repository project.
